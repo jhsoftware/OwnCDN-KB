@@ -83,4 +83,4 @@ Note that bare URLs are NOT automatically converted into links.
 
 ### Copyright notice
 
-All documents in this repository are Copyright &copy; JH Software.
+All documents in this repository are Copyright &copy; [JH Software](https://jhsoftware.dk).
