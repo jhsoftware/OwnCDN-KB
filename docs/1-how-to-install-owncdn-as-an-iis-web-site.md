@@ -1,10 +1,7 @@
-﻿---
-category: 1
-VGroup: 1
-VName: Windows Server 2025
-VSort: 1
 ---
-# How to install OwnCDN as an IIS web-site on Windows Server 2025 
+category: 1
+---
+# How to install OwnCDN as an IIS web-site
 
 1. First [install IIS (Internet Information Services)](12-how-to-install-iis-on-windows-server-2025.md), and make sure to enable the "Application Initialization" feature (Web Server Role (IIS) / Application Development / Application Initialization).
 

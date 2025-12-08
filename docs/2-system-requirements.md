@@ -1,4 +1,4 @@
-﻿---
+---
 category: 1
 ---
 # What are the system requirements for OwnCDN?
@@ -10,4 +10,4 @@ category: 1
 **RAM:** Same requirements as operating system + memory needed for "Memory cache" service.  
 
 
-Please contact us if you would like to run OwnCDN on a different system (like Arm64 or Linux).
+Please [contact us](https://owncdn.com/contact-us) if you would like to run OwnCDN on a different system (like Arm64 or Linux).

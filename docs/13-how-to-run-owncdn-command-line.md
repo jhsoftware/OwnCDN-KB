@@ -6,6 +6,11 @@ Category: 1
 > [!NOTE] We recommend running OwnCDN as an IIS web-site. See
 > TODO: ...
 
+TODO:
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel/endpoints?view=aspnetcore-9.0#specify-ports-only
+
+
+
 ## Unblock the downloaded file
 
 <!-- TESTED: Server2016 + Win10 also has it -->

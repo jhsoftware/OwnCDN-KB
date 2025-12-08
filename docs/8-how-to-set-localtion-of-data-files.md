@@ -1,4 +1,4 @@
-﻿---
+---
 Category: 1
 ---
 # How to configure location of data files
@@ -57,4 +57,3 @@ Edit the "appsettings.json" file in the folder where OwnCDN.exe is located, and 
 
 > [!Caution]
 > If at some point you update OwnCDN to a newer version, make sure that you don't overwrite the "appsettings.json" file - or that you re-add this setting.
- 
