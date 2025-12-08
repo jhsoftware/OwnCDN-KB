@@ -26,13 +26,13 @@ In IIS Manager, select the OwnCDN site, under "Management" double click "Configu
 
 Under "Section" select "system.webServer/aspNetCore", and under "From" select "ApplicationHost.config", click the "..." button next to "environmentVariables":  
 
-![](img/8/iis1.png)
+![](img/8/iis1.webp)
 
 In the "Collection Editor" window, click then "Add" link and add a value for "DATA_DIR" with a value of the data folder: 
 
 TODO: REPLACE SCREENSHOT (OWNCDN-DATA -> DATA_DIR)
 
-![](img/8/iis2.png)
+![](img/8/iis2.webp)
 
 TODO: ... click "Apply".... (TODO)
 
