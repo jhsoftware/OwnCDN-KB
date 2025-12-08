@@ -18,7 +18,7 @@ TODO: ...
 
 ### Running under IIS
 
-If you have mulitple instances of OwnCDN, you can set this at a web-site level.
+If you have multiple instances of OwnCDN, you can set this at a web-site level.
 
 Do the following for each OwnCDN site in IIS:
 

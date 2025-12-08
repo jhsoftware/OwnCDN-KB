@@ -51,7 +51,7 @@ For more on activation, please see <https://en.wikipedia.org/wiki/Product_activa
 <!--
 ### Do you offer educational licenses?
 
-Yes, we offer a special free license type for educational use - like classroom training and ~~s~~imilar scenarios.
+Yes, we offer a special free license type for educational use - like classroom training and similar scenarios.
 
 [Click here](/kb/48/free-educational-licenses) for details.
 -->
