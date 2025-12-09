@@ -5,7 +5,7 @@ Category: 1
 
 ## Run under IIS
 
-The most convenient way to run OwnCDN **in production** is as a web-site under IIS. This gives you all the features of IIS, such as running multiple web-sites on the same IP / port, SSL management, etc.
+The best way to run OwnCDN **in production** is as a web-site under IIS. This gives you all the features of IIS, such as running multiple web-sites on the same IP / port, SSL management, etc., and it is more performant that routing requests thorugh some kind of reverse proxy.
 
 See [How to install OwnCDN as an IIS web-site](1-how-to-install-owncdn-as-an-iis-web-site.md)
 

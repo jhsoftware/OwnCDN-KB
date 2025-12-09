@@ -42,9 +42,9 @@ This entitles you to receive any new version of the software for free, regardles
 
 Yes, license activation is required.
 
-<!-- TODO: link? --> 
-
+<!-- TODO: link?
 You can activate either directly in the software (the software contacts our activation server over the Internet), or by copying a link to a browser (one the same or another computer) and then copying back an activation key.
+--> 
 
 For more on activation, please see <https://en.wikipedia.org/wiki/Product_activation>
 

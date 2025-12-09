@@ -1,15 +1,14 @@
 ---
 Category: 1
+Refs: 8
 ---
 # How to run OwnCDN from the command line
 
-> [!NOTE] We recommend running OwnCDN as an IIS web-site. See
-> TODO: ...
+> [!NOTE] We generally recommend running OwnCDN as an IIS web-site. See [How to get started with OwnCDN](9-how-to-get-started-with-owncdn.md)
 
-TODO:
-https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel/endpoints?view=aspnetcore-9.0#specify-ports-only
+## Download "owncdn-cmd.zip"
 
-
+See <https://owncdn.com/download>
 
 ## Unblock the downloaded file
 
@@ -49,3 +48,19 @@ Copy the address shown in the terminal window to your browser:
 The OwnCDN user interface should show up in your browser (starting with the EULA):
 
 ![](img/13/7.webp)
+
+## Use alternate port number / endpoint
+
+You can specify the endpoint that OwnCDN should listen for HTTP requests on like this:
+
+`owncdn.exe --urls http://127.0.0.1:12345`
+
+For more details see [Configure endpoints for the ASP.NET Core Kestrel web server](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel/endpoints?view=aspnetcore-9.0#configure-endpoints)
+
+## Use alternate data location
+
+You can specify the location of the data files using the command line option `--data_dir` like this:
+
+`owncdn.exe --data_dir C:\owncdn-data`
+
+This may be combined with `--urls` and other options.

@@ -3,7 +3,7 @@ Category: 1
 ---
 # Error Reports
 
-If the unexpected should happen, and OwnCDN crashes, it will attempt to send a notification and to write a detailed error report file to a "_Crash_Reports" folder under the data folder.
+If the unexpected happens, and OwnCDN crashes, it will attempt to send a notification and to write a detailed error report file to a "_Crash_Reports" folder under the data folder.
 
 The error report file is named "YYYYMMDDHHMMSS-######.txt" based on the date and time that the crash happened.
 
