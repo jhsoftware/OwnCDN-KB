@@ -12,7 +12,7 @@ Fork this repository, clone locally, make your updates, commit, push, create a p
 
 ## Repository structure
 
-- Topic files (markdown) are stored in the `docs` folder.  
+- Topic files (Markdown) are stored in the `docs` folder.  
 The name of each topic file is: `<topic-ID>-<slug>.md` where
   - `<topic-ID>` - an integer value assigned sequentially.
   - `<slug>` - a string closely matching the topic's title but with URL friendly characters (replace spaces and special characters with hyphens, etc.). Used as part of the topic's URL.
@@ -22,10 +22,10 @@ The name of each topic file is: `<topic-ID>-<slug>.md` where
 
 ### Front-matter
 
-At the top of each topic file is a section with meta data. This section starts and ends with with three dashes (---) on a line by itself.
+At the top of each topic file is a section with metadata. This section starts and ends with three dashes (---) on a line by itself.
 In other similar documentation projects, this section is in YAML format.
 That is also the plan for this project, but it we haven't gotten to that just yet.
-For now it is just a line based collection of properties - one property per line.
+For now, it is just a line based collection of properties - one property per line.
 Each line consisting of a key value pair.
 
 ```

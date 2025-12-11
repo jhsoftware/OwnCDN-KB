@@ -1,7 +1,9 @@
 ---
 Category: 1
+vgroup: 2
+vname: Windows Server
 ---
-# How to install IIS on Windows Server 2025
+# How to enable IIS on Windows Server (2016-2025)
 
 In "Server Manager" (under "Dashboard"), click "Add roles and features":
 

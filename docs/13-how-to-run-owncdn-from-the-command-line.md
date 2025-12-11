@@ -6,7 +6,7 @@ Refs: 8
 
 > [!NOTE] We generally recommend running OwnCDN as an IIS web-site. See [How to get started with OwnCDN](9-how-to-get-started-with-owncdn.md)
 
-## Download "owncdn-cmd.zip"
+## Download the version of OwnCDN meant for running from the command line ("owncdn-x-x-x-cmd.zip"
 
 See <https://owncdn.com/download>
 

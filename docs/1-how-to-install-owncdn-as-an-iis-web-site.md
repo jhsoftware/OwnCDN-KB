@@ -3,7 +3,7 @@ category: 1
 ---
 # How to install OwnCDN as an IIS web-site
 
-1. First [install IIS (Internet Information Services)](12-how-to-install-iis-on-windows-server-2025.md), and make sure to enable the "Application Initialization" feature (Web Server Role (IIS) / Application Development / Application Initialization).
+1. First [install IIS (Internet Information Services)](12-how-to-enable-iis-on-windows-server.md), and make sure to enable the "Application Initialization" feature (Web Server Role (IIS) / Application Development / Application Initialization).
 
 2. Download and install the latest "ASP.NET Core Runtime 9.x - Hosting Bundle" from  https://dotnet.microsoft.com/en-us/download/dotnet/9.0  
 Make sure to select the "Hosting Bundle" file:  
@@ -14,7 +14,7 @@ Make sure to select the "Hosting Bundle" file:
 
     > [!IMPORTANT] The "ASP.NET Core Runtime 9.x - Hosting Bundle" must only be installed **AFTER** IIS is installed (see step 1).
 
-3. Download OwnCDN (a zip file) from <https://owncdn.com/download>  
+3. Download the version of OwnCDN meant for running under IIS (owncdn-x-x-x-iis.zip) from <https://owncdn.com/download> 
 
 4. Extract the content of the downloaded zip file to a folder on the server computer - for example `c:\owncdn` (right-click the .zip file in File Explorer, and select "Extract All...", or use your preferred zip file program to do this).
 
