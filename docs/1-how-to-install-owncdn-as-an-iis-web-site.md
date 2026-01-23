@@ -5,14 +5,13 @@ category: 1
 
 1. First [install IIS (Internet Information Services)](12-how-to-enable-iis-on-windows-server.md), and make sure to enable the "Application Initialization" feature (Web Server Role (IIS) / Application Development / Application Initialization).
 
-2. Download and install the latest "ASP.NET Core Runtime 9.x - Hosting Bundle" from  https://dotnet.microsoft.com/en-us/download/dotnet/9.0  
-Make sure to select the "Hosting Bundle" file:  
-  
+2. Download and install the latest "ASP.NET Core Runtime 10.x - Hosting Bundle" from  https://dotnet.microsoft.com/en-us/download/dotnet/10.0  
+Make sure to select the **"Hosting Bundle"** file.  
+Run the "dotnet-hosting-10.0.xxx-win.exe" file.
+
     ![](img/1/0.webp)
 
-    Run the "dotnet-hosting-9.0.xxx-win.exe" file.
-
-    > [!IMPORTANT] The "ASP.NET Core Runtime 9.x - Hosting Bundle" must only be installed **AFTER** IIS is installed (see step 1).
+    > [!IMPORTANT] The "ASP.NET Core Runtime 10.x - Hosting Bundle" must only be installed **AFTER** IIS is installed (see step 1).
 
 3. Download the version of OwnCDN meant for running under IIS (owncdn-x-x-x-iis.zip) from <https://owncdn.com/download> 
 
@@ -42,7 +41,7 @@ Under "Process Model", change "Idle Time-out (minutes)" to "0" (to prevent shutt
 
     ![](img/1/4.webp)
 
-9. Scroll down, and under "Recycling", change "Regular Time Interval (minutes)" to "0" (to prevent periodic recycling), and click the "OK" button:
+9. Scroll down, and under "Recycling", change "Disable Overlapped Recycle" to "True" (to prevent IIS from starting multiple instances of OwnCDN with the same data folder - which would fail), and change "Regular Time Interval (minutes)" to "0" (to prevent periodic recycling), and click the "OK" button:
 
     ![](img/1/5.webp)
 

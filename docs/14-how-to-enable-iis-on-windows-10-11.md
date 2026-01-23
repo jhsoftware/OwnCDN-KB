@@ -6,7 +6,7 @@ vname: Windows 10/11
 # How to enable IIS on Windows 10 / 11
 
 > [!Note] Concurrent connections are limited for IIS on Windows Client OS versions.  
-> This affects how many clients use access OwnCDN at the same time. [Click here](https://learn.microsoft.com/en-us/iis/troubleshoot/request-restrictions) for details. 
+> This affects how many clients can access OwnCDN at the same time. [Click here](https://learn.microsoft.com/en-us/iis/troubleshoot/request-restrictions) for details. 
 
 > [!Note] The following screenshots are from Windows 11 (late 2025). Things look a bit different on Windows 10 but generally have the same names.
 

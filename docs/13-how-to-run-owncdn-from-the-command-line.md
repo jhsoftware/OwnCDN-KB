@@ -55,7 +55,7 @@ You can specify the endpoint that OwnCDN should listen for HTTP requests on like
 
 `owncdn.exe --urls http://127.0.0.1:12345`
 
-For more details see [Configure endpoints for the ASP.NET Core Kestrel web server](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel/endpoints?view=aspnetcore-9.0#configure-endpoints)
+For more details see [Configure endpoints for the ASP.NET Core Kestrel web server](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel/endpoints?view=aspnetcore-10.0#configure-endpoints)
 
 ## Use alternate data location
 

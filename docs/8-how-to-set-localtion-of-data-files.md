@@ -7,7 +7,7 @@ Category: 1
 
 By default, OwnCDN stores its data files in a "data" sub-folder under the folder from where OwnCDN is installed (where the "OwnCDN.exe" file is).
 
-This can be changed by updating the "data_dir" setting in the "appsettings.json" file, by setting the environment variable "DATA_DIR", or by using the `--data_dir` command line option (when running from the command line):
+This can be changed by updating the "data_dir" setting in the "appsettings.json" file, by setting the environment variable "DATA_DIR", or by using the `--data_dir` command line option (when [running from the command line](13-how-to-run-owncdn-from-the-command-line.md)):
 
 ## Using "appsettings.json"
 
