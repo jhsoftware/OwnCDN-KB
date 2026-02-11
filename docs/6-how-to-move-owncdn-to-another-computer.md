@@ -5,7 +5,7 @@ category: 1
 
 To move your OwnCDN installation including settings and data, you first need to back up your data and settings - [click here for details](/kb/7).
 
-Then install Simple DNS Plus on the new computer and restore the data and settings (see link above).
+Then install OwnCDN on the new computer and restore the data and settings (see link above).
 
 ### Licensing
 
