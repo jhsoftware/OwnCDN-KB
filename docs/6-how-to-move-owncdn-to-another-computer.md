@@ -11,9 +11,9 @@ Then install OwnCDN on the new computer and restore the data and settings (see l
 
 It is **not** allowed to use the same license key on more computers than licensed for - for any period of time, no matter how short this may be.
 
-Therefore, if your OwnCDN license is activated on the old computer, you need to de-activate OwnCDN on the old computer (un-install or delete files), before you activate the license on the new computer.
+Therefore, if your OwnCDN license is activated on the old computer, you need to deactivate OwnCDN on the old computer (uninstall or delete files) before you activate the license on the new computer.
 
-You can de-activate the license from the OwnCDN web UI, under "About / License", clicking the "De-activate license..." button:
+You can deactivate the license from the OwnCDN web UI, under "About / License", clicking the "De-activate license..." button:
 
 ![](img/6/1.webp)
 

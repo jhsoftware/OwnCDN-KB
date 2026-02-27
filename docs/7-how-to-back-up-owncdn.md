@@ -21,7 +21,7 @@ The best way to back up data in OwnCDN [Storage services](https://owncdn.com/doc
 
 ## File system service
 
-Data served by OwnCDN [File system services](https://owncdn.com/docs/file-system-service-type) needs to backed up in the same way you would any other files - using your normal back up software and procedures.
+Data served by OwnCDN [File system services](https://owncdn.com/docs/file-system-service-type) needs to be backed up in the same way you would any other files - using your normal back-up software and procedures.
 
 ## Other service types
 

@@ -5,13 +5,13 @@ Category: 1
 
 > [!Important] Make sure that the OwnCDN process (app pool identify if under IIS) has write access to the data folder that you specify.
 
-By default, OwnCDN stores its data files in a "data" sub-folder under the folder from where OwnCDN is installed (where the "OwnCDN.exe" file is).
+By default, OwnCDN stores its data files in a "data" subfolder under the folder from where OwnCDN is installed (where the "OwnCDN.exe" file is).
 
 This can be changed by updating the "data_dir" setting in the "appsettings.json" file, by setting the environment variable "DATA_DIR", or by using the `--data_dir` command line option (when [running from the command line](13-how-to-run-owncdn-from-the-command-line.md)):
 
 ## Using "appsettings.json"
 
-Edit the "appsettings.json" file in the folder where OwnCDN.exe is located, and update the "data_dir" setting with the location of the data files:
+Edit the "appsettings.json" file in the folder where OwnCDN.exe is located and update the "data_dir" setting with the location of the data files:
 
 ```json
 {
@@ -38,7 +38,7 @@ You can set the data folder location using the "DATA_DIR" environment variable (
 
 ### Running under IIS
 
-When running one or more instances of OwnCDN [under IIS](/kb/1), you can set the data location for each instance at a web-site level.
+When running one or more instances of OwnCDN [under IIS](/kb/1), you can set the data location for each instance at a website level.
 Do the following for each OwnCDN site in IIS:
 
 In IIS Manager, select the OwnCDN site, under "Management" double click "Configuration Editor".
@@ -47,11 +47,11 @@ Under "Section" select "system.webServer/aspNetCore", and under "From" select "A
 
 ![](img/8/1.webp)
 
-In the "Collection Editor" window, click then "Add" link and add a value for "DATA_DIR" with a value of the data folder: 
+In the "Collection Editor" window, click the "Add" link and add a value for "DATA_DIR" with a value of the data folder: 
 
 ![](img/8/2.webp)
 
-Click the "Collection Editor" window, and make sure to click "Apply" back in the main IIS window:
+Click the "Collection Editor" window and make sure to click "Apply" back in the main IIS window:
 
 ![](img/8/3.webp)
 

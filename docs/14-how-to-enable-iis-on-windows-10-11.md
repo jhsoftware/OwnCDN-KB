@@ -22,7 +22,7 @@ Click on "More Windows features":
 
 ![](img/14/3.webp)
 
-Expand "Internet Intermation Services", expand "Web Management Tools" and enable "IIS Management Console", expand "World Wide Web Services", expand "Application Development Features", and enable "Application Initialization" and "ASP.NET 4.8", and click the "OK" button: 
+Expand "Internet Information Services", expand "Web Management Tools" and enable "IIS Management Console", expand "World Wide Web Services", expand "Application Development Features", and enable "Application Initialization" and "ASP.NET 4.8", and click the "OK" button: 
 
 ![](img/14/4.webp)
 

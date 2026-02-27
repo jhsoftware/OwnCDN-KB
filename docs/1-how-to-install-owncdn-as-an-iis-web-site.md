@@ -5,7 +5,7 @@ category: 1
 
 1. First [install IIS (Internet Information Services)](12-how-to-enable-iis-on-windows-server.md), and make sure to enable the "Application Initialization" feature (Web Server Role (IIS) / Application Development / Application Initialization).
 
-2. Download and install the latest "ASP.NET Core Runtime 10.x - Hosting Bundle" from  https://dotnet.microsoft.com/en-us/download/dotnet/10.0  
+2. Download and install the latest "ASP.NET Core Runtime 10.x - Hosting Bundle" from https://dotnet.microsoft.com/en-us/download/dotnet/10.0  
 Make sure to select the **"Hosting Bundle"** file.  
 Run the "dotnet-hosting-10.0.xxx-win.exe" file.
 
@@ -19,7 +19,7 @@ Run the "dotnet-hosting-10.0.xxx-win.exe" file.
 
 5. Open the "Internet Information Services (IIS) Manager" from the Windows Start menu.
 
-    > [!NOTE] To make things simpler, we removed the "Default" IIS web-site. But you can easily install OwnCDN along-side that and/or any other existing IIS web-sites. You just need to configure each web-site to use different host names or port numbers.
+    > [!NOTE] To make things simpler, we removed the "Default" IIS website. But you can easily install OwnCDN alongside that and/or any other existing IIS websites. You just need to configure each website to use different host names or port numbers.
 
     Expand the tree in the left pane, right-click "Sites", and select "Add Website...":
 
@@ -27,7 +27,7 @@ Run the "dotnet-hosting-10.0.xxx-win.exe" file.
 
 6. In the "Add Website" dialog, enter "owncdn" as the Site name (note: The application name will automatically be the same - this is fine).  
 Specify the folder where you extracted the OwnCDN files (see step 4) under "Physical path:".  
-If needed, you can also configure the IP address, port, and/or host name here, so that OwnCDN won't conflict with any existing web-site.  
+If needed, you can also configure the IP address, port, and/or host name here so that OwnCDN won't conflict with any existing website.  
 Click the "OK" button:
 
     ![](img/1/2.webp)
@@ -45,11 +45,11 @@ Under "Process Model", change "Idle Time-out (minutes)" to "0" (to prevent shutt
 
     ![](img/1/5.webp)
 
-10. Back in the IIS Manager window, in the left pane, right-click the "owncdn" web-site, select "Manage Website", and then "Advanced Settings...":
+10. Back in the IIS Manager window, in the left pane, right-click the "owncdn" website, select "Manage Website", and then "Advanced Settings...":
 
     ![](img/1/6.webp)
 
-11. Change the "Preload Enabled" setting to "True", and click the "OK" button:
+11. Change the "Preload Enabled" setting to "True" and click the "OK" button:
 
     ![](img/1/7.webp)
 

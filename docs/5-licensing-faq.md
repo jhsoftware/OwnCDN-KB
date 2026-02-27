@@ -13,10 +13,10 @@ No, only one license can be used at a time.
 If you need to host more zones, you need to upgrade the license to a larger size.
 -->
 
-### What versions/releases are a license is valid for?
+### What versions/releases is a license valid for?
 
 1) The current version at the time of purchase (new or upgrade).
-2) Any versions (major/minor\*) released within one year after the purchase (see "one year free upgrade protection" below).
+2) Any versions (major/minor\*) released within one year after the purchase (see "one-year free upgrade protection" below).
 3) Any patch (build number\* increase only) released at any time (also beyond the one year), for above versions (see 1 and 2).
 
 \* We use this software version numbering structure:
@@ -32,7 +32,7 @@ No, our licenses are perpetual. They are **not subscriptions**, and there are no
 
 You only pay again if you choose to upgrade to a new version released a year or more after your purchase.
 
-### "One year free upgrade protection"?
+### "One-year free upgrade protection"?
 
 With any license purchase (new or upgrade), you receive one year of free upgrade protection.
 

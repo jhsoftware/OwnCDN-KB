@@ -41,7 +41,7 @@ In the "Web Server Role (IIS)" section, click the "Next" button:
 
 ![](img/12/9.webp)
 
-> [!NOTE] The following (enabling the "Application Initialization" feature) is needed for the "Enable preload" web-site setting to work (see instructions for installing OwnCDN) - which ensures that OwnCDN startup as soon as the application pool / website starts.
+> [!NOTE] The following (enabling the "Application Initialization" feature) is needed for the "Enable preload" website setting to work (see instructions for installing OwnCDN) - which ensures that OwnCDN startup as soon as the application pool / website starts.
 
 In the "Web Server Role (IIS) / Role Services" section, scroll down and expand "Application Development", and check "Application Initialization", and click the "Next" button.
 

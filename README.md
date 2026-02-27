@@ -6,7 +6,7 @@ The documentation contained in this repository is hosted at <https://owncdn.com/
 
 Contributions are most welcome. No contribution is too big or too small.
 
-Contributors will of course be attributed on our web-site. See the "Contributors" front-matter property below.
+Contributors will, of course, be attributed on our website. See the "Contributors" front-matter property below.
 
 Fork this repository, clone locally, make your updates, commit, push, create a pull request in GitHub...
 
@@ -24,9 +24,9 @@ The name of each topic file is: `<topic-ID>-<slug>.md` where
 
 At the top of each topic file is a section with metadata. This section starts and ends with three dashes (---) on a line by itself.
 In other similar documentation projects, this section is in YAML format.
-That is also the plan for this project, but it we haven't gotten to that just yet.
-For now, it is just a line based collection of properties - one property per line.
-Each line consisting of a key value pair.
+That is also the plan for this project, but we haven't gotten to that just yet.
+For now, it is just a line-based collection of properties - one property per line.
+Each line consists of a key-value pair.
 
 ```
 ---

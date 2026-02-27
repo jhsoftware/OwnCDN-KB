@@ -3,7 +3,7 @@ category: 1
 ---
 # Version maintenance / End of Life (EOL) policy
 
-We only maintain the lastest version of OwnCDN.
+We only maintain the latest version of OwnCDN.
 
 Whenever we release a new version (major/minor) of OwnCDN, older versions are no longer supported.
 
