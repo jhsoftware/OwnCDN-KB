@@ -19,14 +19,14 @@ Run the "dotnet-hosting-10.0.xxx-win.exe" file.
 
 5. Open the "Internet Information Services (IIS) Manager" from the Windows Start menu.
 
-    > [!NOTE] To make things simpler, we removed the "Default" IIS website. But you can easily install OwnCDN alongside that and/or any other existing IIS websites. You just need to configure each website to use different host names or port numbers.
+    > [!NOTE] To simplify things, we removed the "Default" IIS website. But you can easily install OwnCDN alongside that and/or any other existing IIS websites. You just need to configure each website to use different host names or port numbers.
 
     Expand the tree in the left pane, right-click "Sites", and select "Add Website...":
 
     ![](img/1/1.webp)
 
 6. In the "Add Website" dialog, enter "owncdn" as the Site name (note: The application name will automatically be the same - this is fine).  
-Specify the folder where you extracted the OwnCDN files (see step 4) under "Physical path:".  
+Specify the folder where you extracted the OwnCDN files (see step 4) under "Physical path".  
 If needed, you can also configure the IP address, port, and/or host name here so that OwnCDN won't conflict with any existing website.  
 Click the "OK" button:
 
