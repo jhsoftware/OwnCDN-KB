@@ -1,5 +1,5 @@
 ---
-Category: 1
+Category: 4
 ---
 # Is OwnCDN GDPR / DORA / HIPAA / PCI compliant?
 

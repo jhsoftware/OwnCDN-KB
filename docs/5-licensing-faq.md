@@ -1,17 +1,11 @@
 ---
-category: 1
+category: 2
 ---
 # Licensing FAQ
 
 ### How many licenses do I need?
 
 You need one license for each installed instance of OwnCDN (also if only used for backup / replication target).
-
-<!-- TODO:
-### Can I use multiple licenses on a OwnCDN instance (in order to host more zones)?
-No, only one license can be used at a time.
-If you need to host more zones, you need to upgrade the license to a larger size.
--->
 
 ### What versions/releases is a license valid for?
 
@@ -42,17 +36,7 @@ This entitles you to receive any new version of the software for free, regardles
 
 Yes, license activation is required.
 
-<!-- TODO: link?
-You can activate either directly in the software (the software contacts our activation server over the Internet), or by copying a link to a browser (one the same or another computer) and then copying back an activation key.
---> 
-
 For more on activation, please see <https://en.wikipedia.org/wiki/Product_activation>
-
-<!-- TODO:
-### Do you offer educational licenses?
-Yes, we offer a special free license type for educational use - like classroom training and similar scenarios.
-[Click here](/kb/48/free-educational-licenses) for details.
--->
 
 ### Do you offer free/discounted licenses for education, non-profits or other types of organizations?
 

@@ -1,5 +1,5 @@
 ---
-Category: 1
+Category: 3
 ---
 # Can I run my own AWS S3 instance with OwnCDN ?
 

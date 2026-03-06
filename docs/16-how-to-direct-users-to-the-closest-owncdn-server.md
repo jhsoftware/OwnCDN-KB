@@ -1,5 +1,5 @@
 ---
-Category: 1
+Category: 4
 ---
 # How to direct users to the closest OwnCDN server
 

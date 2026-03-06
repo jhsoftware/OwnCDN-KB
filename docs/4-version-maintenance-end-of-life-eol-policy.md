@@ -1,5 +1,5 @@
 ---
-category: 1
+category: 2
 ---
 # Version maintenance / End of Life (EOL) policy
 

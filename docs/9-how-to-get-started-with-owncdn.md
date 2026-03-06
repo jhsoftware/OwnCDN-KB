@@ -1,5 +1,5 @@
 ---
-Category: 1
+Category: 3
 ---
 # How to get started with OwnCDN
 

@@ -1,5 +1,5 @@
 ---
-Category: 1
+Category: 5
 ---
 # How to reset the UI password
 

@@ -1,5 +1,5 @@
 ---
-category: 1
+category: 3
 ---
 # How to move OwnCDN to another computer
 
