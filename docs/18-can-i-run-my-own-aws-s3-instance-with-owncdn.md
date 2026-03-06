@@ -10,3 +10,4 @@ OwnCDN does NOT implement the full S3 API (very extensive), but it does implemen
 You can choose to use the "File System" service type to serve and add/update/remove files directly from the Windows file system.
 
 Or, you can use the "Storage" service type to serve and add/update/remove files in a local database (SQLite), which provides the added benefits of live replication and versioning (enabling point-in-time restore).
+
