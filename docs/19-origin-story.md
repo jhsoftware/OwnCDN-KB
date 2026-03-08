@@ -3,7 +3,7 @@ Category: 4
 ---
 # OwnCDN origin story
 
-We (JH Software) also develop and run an educational platform with on-line tests and exercises for Danish elementary and middle schools - see https://tjek.net (Danish language only).
+We (JH Software) also develop and run an educational platform with on-line tests and exercises for Danish elementary and middle schools - see <https://tjek.net> (Danish language only).
 
 For years, we ran this as a single ASP.NET website under IIS on a Windows VPS (virtual private server) at various cloud providers.
 But when GDPR (EU privacy regulations) hit, it became difficult to be in compliance while keeping the data with cloud providers.
