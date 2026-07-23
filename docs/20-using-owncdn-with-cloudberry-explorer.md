@@ -9,6 +9,8 @@ CloudBerry Explorer supports "S3 compatible" storage services, and thus also Own
 
 You can set this up with OwnCDN and use it much like Windows Explorer to move files between your computer and OwnCDN.
 
+The following describes how to first set up a Storage service and an API key in OwnCDN, and then how to connect to that storage and manage files using CloudBerry Explorer.
+
 In the OwnCDN web interface, click on "Services" on the left side menu, click on the "New service" button and select "Storage":
 
 ![](img/20/1.png)
